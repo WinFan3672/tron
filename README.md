@@ -1,7 +1,7 @@
 # Tron
 **Current version: 1.0.0**
 
-Cross-platform general-purpose text editor written in Python using the Tkinter framework. 
+Cross-platform general-purpose text editor written in Python using the Tkinter framework.
 ## Install
 * Install Python `3.9+`
 * Download `tron.py`
